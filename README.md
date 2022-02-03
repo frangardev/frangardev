@@ -31,9 +31,9 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
 </p>
 
-### Github Stats:
+<!-- ### Github Stats: -->
 <!-- <p align="center"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=frangardev&hide=stars&show_icons=true&theme=cobalt&line_height=32">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=frangardev&hide=stars&show_icons=true&theme=cobalt&line_height=32"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangardev&layout=compact&count_private=true&theme=cobalt"> -->
 <!-- </p> -->
 
