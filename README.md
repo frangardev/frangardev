@@ -8,8 +8,8 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS#" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-SASS-CD669A?style=flat-square&logo=sass&logoColor=white" />
   <img alt="chakra ui" src="https://img.shields.io/badge/-ChakraUi-4BC7C4?style=flat-square&logo=chakraui&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-SASS-CD669A?style=flat-square&logo=sass&logoColor=white" />
   <img alt="tailwind css" src="https://img.shields.io/badge/-tailwind-41ACB1?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F2CC22?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -17,9 +17,10 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />	
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="wordpress" src="https://img.shields.io/badge/-WordPress-0275A1?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-fd7366?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-F2CC22?style=flat-square&logo=adobeillustrator&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
