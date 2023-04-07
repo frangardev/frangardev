@@ -1,11 +1,13 @@
-# Hello, world! ✌️
+<h1  align="center"> Hello, world! ✌️</h1>
 
-[![frangardev dibujo](https://i.ibb.co/9tbLvR5/cover-frangardev.gif "frangardev dibujo")](https://i.ibb.co/QQ2scDt/frangardev-francisco-alejandro-garcia-munguia.jpg "frangardev dibujo")
-<p>¡Hola! soy es Fran y soy desarrollador y diseñador UX. Me apasiona la tecnología y aprender. Me considero una persona creativa y muy proactiva</p>
+<p align="center">
+<!-- [![frangardev dibujo](https://i.ibb.co/9tbLvR5/cover-frangardev.gif "frangardev dibujo")](https://i.ibb.co/QQ2scDt/frangardev-francisco-alejandro-garcia-munguia.jpg "frangardev dibujo") -->
+	<img src="https://i.ibb.co/9tbLvR5/cover-frangardev.gif)" alt="frangardev dibujo">
+</p>
+<p align="center">¡Hola! soy es Fran y soy desarrollador y diseñador UX. Me apasiona la tecnología y aprender. Me considero una persona creativa y muy proactiva</p>
 
-### Skills
-
-<p>
+<h2  align="center"> Skills:</h2>
+<p align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS#" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />
   <img alt="chakra ui" src="https://img.shields.io/badge/-ChakraUi-4BC7C4?style=flat-square&logo=chakraui&logoColor=white" />
@@ -28,13 +30,13 @@
 
 ---
 
-### Github Stats:
+<!-- ### Github Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frangardev&hide=stars&show_icons=true&theme=cobalt&line_height=32">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangardev&layout=compact&count_private=true&theme=cobalt"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangardev&layout=compact&count_private=true&theme=cobalt"> 
 </p>
 
----
+--- -->
 
 <div align="center">
 <a href="https://twitter.com/frangardev" >
@@ -52,8 +54,8 @@
 <p align="center">
 By <a href="https://frangardev.github.io/redes/" alt="redes de frangardev">@frangardev</a>
 </p>
+
 <!--
-**frangardev/frangardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
